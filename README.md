@@ -1,5 +1,9 @@
 # Tic-Tac-Toe 🎮
 
+<p align="center">
+  <img src="https://l.arzfun.com/slBTZ" alt="Tic-Tac-Toe Game Screenshot" />
+</p>
+
 A simple, classic **Tic-Tac-Toe** game built with **HTML** and **CSS**. Challenge a friend to play this timeless two-player game!
 
 ## Features ✨
