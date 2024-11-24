@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-  src="https://radare.arzfun.com/api/tgphotoid=AgACAgIAAxkBAAECMc9nQo3E1LYacQlMUYMwd7XAmcKWVQACQucxG1hAEUo_QVY2PSPl_wEAAwIAA3kAAzYE" alt="Tic-Tac-Toe Game Screenshot" />
+  src="https://i.imghippo.com/files/bHH5274R.jpg" alt="Tic-Tac-Toe Game Screenshot" />
 </p>
 
 A simple, classic **Tic-Tac-Toe** game built with **HTML** and **CSS**. Challenge a friend to play this timeless two-player game!
