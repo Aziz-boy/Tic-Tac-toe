@@ -1,8 +1,7 @@
 # Tic-Tac-Toe 🎮
 
 <p align="center">
-  <img 
-  src="https://i.imghippo.com/files/bHH5274R.jpg" alt="Tic-Tac-Toe Game Screenshot" />
+  <<img src="https://i.imghippo.com/files/wKCr1500.jpg" alt="Tic-Tac-Toe Game Screenshot"  border="0"> 
 </p>
 
 A simple, classic **Tic-Tac-Toe** game built with **HTML** and **CSS**. Challenge a friend to play this timeless two-player game!
