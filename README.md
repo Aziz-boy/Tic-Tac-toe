@@ -1,7 +1,7 @@
 # Tic-Tac-Toe 🎮
 
 <p align="center">
-  <img width="1200" height="680" src="https://i.imghippo.com/files/wKCr1500.jpg" alt="Tic-Tac-Toe Game Screenshot" border="0"> 
+  <img width="500" height="680" src="https://i.imghippo.com/files/wKCr1500.jpg" alt="Tic-Tac-Toe Game Screenshot" border="0"> 
 </p>
 
 
